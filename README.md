@@ -1,4 +1,4 @@
-Ctrl + F and modify as you see fit
+"Ctrl + F", and then modify as you see fit
 
 // MyMapGenerator.js
 var pixelValues = PerlinNoise(true); *Perlin Noise displayed with Gradients
